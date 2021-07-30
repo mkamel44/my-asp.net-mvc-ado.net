@@ -1,0 +1,67 @@
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\csc.exe
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\System.Collections.Immutable.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\System.Reflection.Metadata.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\vbc.exe
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\VBCSCompiler.exe
+G:\2015\MVCWithADO\MVCWithADO\bin\roslyn\VBCSCompiler.exe.config
+G:\2015\MVCWithADO\MVCWithADO\bin\MVCWithADO.dll.config
+G:\2015\MVCWithADO\MVCWithADO\bin\MVCWithADO.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\MVCWithADO.pdb
+G:\2015\MVCWithADO\MVCWithADO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\Microsoft.Web.Infrastructure.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Helpers.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Mvc.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Razor.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.Deployment.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.Razor.dll
+G:\2015\MVCWithADO\MVCWithADO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Razor.xml
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.xml
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.Deployment.xml
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.Razor.xml
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Helpers.xml
+G:\2015\MVCWithADO\MVCWithADO\bin\System.Web.Mvc.xml
+G:\2015\MVCWithADO\MVCWithADO\obj\Debug\MVCWithADO.csprojResolveAssemblyReference.cache
+G:\2015\MVCWithADO\MVCWithADO\obj\Debug\MVCWithADO.dll
+G:\2015\MVCWithADO\MVCWithADO\obj\Debug\MVCWithADO.pdb
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\csc.exe
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\vbc.exe
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\MVCWithADO.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\MVCWithADO.pdb
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Helpers.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Mvc.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Razor.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.Razor.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Razor.xml
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.xml
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Webpages.Razor.xml
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Helpers.xml
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\bin\System.Web.Mvc.xml
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\obj\Debug\MVCWithADO.csprojAssemblyReference.cache
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\obj\Debug\MVCWithADO.csproj.CoreCompileInputs.cache
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\obj\Debug\MVCWithADO.csproj.CopyComplete
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\obj\Debug\MVCWithADO.dll
+C:\Users\Evolution Center\Downloads\MVCWithADO\MVCWithADO\obj\Debug\MVCWithADO.pdb
