@@ -1,10 +1,12 @@
-﻿using System.Data;
+﻿using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 
 namespace MVCWithADO.Models
 {
     public class CRUDModel
     {
+        string strConString =ConfigurationManager.ConnectionStrings["DBCS"].ConnectionString;
         /// <summary>
         /// Get all records from the DB
         /// </summary>
@@ -12,7 +14,7 @@ namespace MVCWithADO.Models
         public DataTable GetAllStudents()
         {
             DataTable dt = new DataTable();
-            string strConString =@"Data Source=WELCOME-PC\SQLSERVER2008;Initial Catalog=MyDB;Integrated Security=True";
+            
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
@@ -31,9 +33,7 @@ namespace MVCWithADO.Models
         public DataTable GetStudentByID(int intStudentID)
         {
             DataTable dt = new DataTable();
-
-            string strConString = @"Data Source=WELCOME-PC\SQLSERVER2008;Initial Catalog=MyDB;Integrated Security=True";
-
+            
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
@@ -54,8 +54,6 @@ namespace MVCWithADO.Models
         /// <returns></returns>
         public int UpdateStudent(int intStudentID, string strStudentName, string strGender, int intAge)
         {
-            string strConString = @"Data Source=WELCOME-PC\SQLSERVER2008;Initial Catalog=MyDB;Integrated Security=True";
-
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
@@ -78,8 +76,6 @@ namespace MVCWithADO.Models
         /// <returns></returns>
         public int InsertStudent(string strStudentName, string strGender, int intAge)
         {
-            string strConString = @"Data Source=WELCOME-PC\SQLSERVER2008;Initial Catalog=MyDB;Integrated Security=True";
-
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
@@ -99,8 +95,6 @@ namespace MVCWithADO.Models
         /// <returns></returns>
         public int DeleteStudent(int intStudentID)
         {
-            string strConString = @"Data Source=WELCOME-PC\SQLSERVER2008;Initial Catalog=MyDB;Integrated Security=True";
-
             using (SqlConnection con = new SqlConnection(strConString))
             {
                 con.Open();
